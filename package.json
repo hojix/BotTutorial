@@ -1,0 +1,18 @@
+{
+  "name": "fbmsgbot",
+  "version": "1.0.0",
+  "description": "fb msg bot tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fbmsg"
+  ],
+  "author": "jia yi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
